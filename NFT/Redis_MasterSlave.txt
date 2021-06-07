@@ -1,0 +1,20 @@
+192.168.100.20
+
+Nft@1234
+
+
+slave
+192.168.2.95
+
+
+QAAutomation@123
+
+redis-server redis.windows.conf
+
+
+Keys *
+
+flushall
+
+
+6:13 AM
